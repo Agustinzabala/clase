@@ -1,6 +1,4 @@
-# CLASE-REDES
-
-## Voy-a-crear-pequeña-lista
+# ROSARIO-CENTRAL
 
 ## plantel-rosario-central
 
