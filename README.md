@@ -1,6 +1,6 @@
 # ROSARIO-CENTRAL
 
-## plantel-rosario-central
+## plantel rosario central
 
 | numero | jugador |
 |--------|---------|
