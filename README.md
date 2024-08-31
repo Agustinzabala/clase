@@ -1,4 +1,4 @@
-# ROSARIO-CENTRAL
+# ROSARIO CENTRAL
 
 ## plantel rosario central
 
